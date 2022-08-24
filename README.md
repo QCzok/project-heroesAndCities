@@ -28,7 +28,7 @@ Miami
 
 Washington 
 
-und Alabama.
+und Montgomery.
 
 ## Aufgabenstellung - Teil 3
 Schreibe nun, wie mit den Heroes, eine Funktion, die eine einzelne Stadt in das HTML-DOM schreibt.
