@@ -33,7 +33,7 @@ und Montgomery.
 ## Aufgabenstellung - Teil 3
 Schreibe nun, wie mit den Heroes, eine Funktion, die eine einzelne Stadt in das HTML-DOM schreibt.
 
-Verwende schließlich map auf dem Array mit der Funktion als Argument.
+Verwende schließlich `map` auf dem Array mit der Funktion als Argument.
 
 ## Aufgabenstellung - Teil 4
-Füge in der style.css Styling-Attribute hinzu, um die Städte hervorzuheben.
+Füge in der `style.css` Styling-Attribute hinzu, um die Städte hervorzuheben.
