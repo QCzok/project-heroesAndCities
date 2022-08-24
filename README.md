@@ -7,10 +7,10 @@ Im Moment werden John, Bob, Chuck, Sam, Pete, Sarah, Ana und Henry als Helden da
 Nun sollen Städte gewürdigt werden.
 
 ## Aufgabenstellung - Teil 1
-Klone das Projekt mit allen Dateien und setze dich zuerst mit den Dateien index.html, style.css und heroes.js auseinander.
+Klone das Projekt mit allen Dateien und setze dich zuerst mit den Dateien `index.html`, `style.css` und `heroes.js` auseinander.
 
 ## Aufgabenstellung - Teil 2
-Arbeite nun an der Datei cities.js weiter.
+Arbeite nun an der Datei `cities.js` weiter.
 
 Die Datei soll ein Array mit folgenden Städten beinhalten: 
 
