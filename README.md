@@ -2,7 +2,7 @@
 
 Das Projekt ist halb fertig.
 
-Im Moment werden John, Bob, Chuck, Sam, Pete, Sarah, Ana und Henry als Helden dargestellt.
+Im Moment werden `John, Bob, Chuck, Sam, Pete, Sarah, Ana und Henry` als Helden dargestellt.
 
 Nun sollen Städte gewürdigt werden.
 
